@@ -1,3 +1,8 @@
+### Experiencia en la práctica
+
+En esta práctica aprendí a utilizar Git y GitHub para guardar y organizar los cambios que iba haciendo en mi proyecto. Primero descargué el proyecto y revisé cómo se encontraba. Después fui realizando algunos cambios y practicando cómo guardarlos correctamente. También aprendí a trabajar con ramas para hacer modificaciones por separado y después unirlas al proyecto principal. Por último, conecté mi proyecto con GitHub y subí los cambios para tener una copia de mi trabajo en línea.
+
+
 # Hello Git & GitHub🐙
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
@@ -163,3 +168,4 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mej
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
 
 Miguel Angel Berumen Aguilar
+
